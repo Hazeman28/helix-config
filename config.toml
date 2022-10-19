@@ -1,0 +1,4 @@
+[editor]
+line-number = "relative"
+mouse       = false
+rulers      = [80, 120]
