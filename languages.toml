@@ -35,9 +35,5 @@ name = "markdown"
 formatter = { command = "prettier", args = ["--parser", "markdown"] }
 
 [[language]]
-name = "mdx"
-formatter = { command = "prettier", args = ["--parser", "mdx"] }
-
-[[language]]
 name = "html"
 formatter = { command = "prettier", args = ["--parser", "html"] }
