@@ -1,4 +1,17 @@
 [editor]
 line-number = "relative"
 mouse       = false
-rulers      = [80, 120]
+rulers      = [80]
+
+[editor.indent-guides]
+render = true
+
+[editor.statusline]
+right = [
+  "diagnostics",
+  "selections",
+  "position",
+  "file-encoding",
+  "file-line-ending",
+  "file-type"
+]
