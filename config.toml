@@ -2,6 +2,7 @@
 line-number = "relative"
 mouse       = false
 rulers      = [80]
+cursorline  = true
 
 [editor.indent-guides]
 render = true
